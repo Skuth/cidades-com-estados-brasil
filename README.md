@@ -1,9 +1,6 @@
 # Cidades com Estados do Brasil em JSON
 
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
 Array de Objetos com Cidades já com Estados do Brasil em JSON.
 
@@ -11,9 +8,9 @@ Array de Objetos com Cidades já com Estados do Brasil em JSON.
 
 ```json
 {
-	"id":1,
-	"city":"Abadia de Goiás",
-	"uf":"GO",
-	"state":"Goiás"
+  "id":1,
+  "city":"Abadia de Goiás",
+  "uf":"GO",
+  "state":"Goiás"
 }
 ```
